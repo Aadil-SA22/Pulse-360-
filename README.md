@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="Images/Healthcare Project Guide Illustration.png" alt="Healthcare Data Insights Banner" width="700" height = "400">
+  <img src="Images/Pulse-360.png" alt="Healthcare Data Insights Banner" width="400" height = "400">
 </p>
 
-# Visual-Healthcare-Insights-Python-EDA-Power-BI-Dashboards
+# End to End Hospital Operational Insights 
 
 ## 📚 Table of Contents
 
@@ -41,11 +41,11 @@
 
 
 
-## 📌 1. Project Overview <a name="1-project-overview"></a>
+##  1. Project Overview <a name="1-project-overview"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;This project focuses on analyzing healthcare data to uncover key insights into patient admissions, medical conditions, treatment outcomes, and hospital performance. By combining Python for data preparation and cleaning with Power BI for interactive dashboards, the project aims to support healthcare administrators in making data-driven operational and clinical decisions.
 
-## 📌 2. Project Description <a name="2-project-description"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;🩺 The Healthcare Data Analysis and Visualization Project involves working with a multi-sheet Excel dataset containing patient details, hospital information, doctor records, and patient visit data. The project workflow starts with merging and cleaning the data using Python libraries such as Pandas and NumPy in a Jupyter Notebook environment. Key data cleaning steps included handling missing values, standardizing text data, mapping admission type codes, calculating patient length of stay, and identifying high billing cases.
+##  2. Project Description <a name="2-project-description"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;🩺 Pulse 360 involves working with a multi-sheet Excel dataset containing patient details, hospital information, doctor records, and patient visit data. The project workflow starts with merging and cleaning the data using Python libraries such as Pandas and NumPy in a Jupyter Notebook environment. Key data cleaning steps included handling missing values, standardizing text data, mapping admission type codes, calculating patient length of stay, and identifying high billing cases.
 
 After preparing a clean and integrated dataset, exploratory data analysis (EDA) was performed in Python to validate data distributions and detect anomalies. The prepared dataset was then visualized in Power BI, where a series of interactive dashboards were built to deliver actionable insights.
 
@@ -381,6 +381,7 @@ Data Scientist | Data Science Enthusiast
 ## 12. License <a name="12-license"></a>
 
 This project is licensed under the [MIT License](LICENSE).
+
 
 
 
