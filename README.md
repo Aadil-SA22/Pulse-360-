@@ -63,7 +63,7 @@ The dashboards created include:
 
 This project demonstrates how Python-based data engineering can seamlessly integrate with BI tools like Power BI to deliver healthcare insights that improve operational efficiency and patient care decisions.
 
-## 📌 3. Key Features <a name="3-key-features"></a>
+## 3. Key Features <a name="3-key-features"></a>
 - 📑 Merges multiple Excel sheets into a single clean dataset.
 
 - 🧹 Cleans and standardizes patient, doctor, and hospital details.
@@ -80,7 +80,7 @@ This project demonstrates how Python-based data engineering can seamlessly integ
 
 - 📈 Builds Power BI dashboards for dynamic visual insights.
 
-## 📌4. Tools & Technologies <a name="4-tools--technologies"></a>
+## 4. Tools & Technologies <a name="4-tools--technologies"></a>
 
 - Python
   - Pandas
@@ -92,7 +92,7 @@ This project demonstrates how Python-based data engineering can seamlessly integ
 - 📓 Jupyter Notebook
 - 📂 CSV & Excel Files (for data storage)
 
-## 📌 5. Project Folder Structure <a name="5-project-folder-structure"></a>
+##  5. Project Folder Structure <a name="5-project-folder-structure"></a>
 
 ├── 📁 Data/ # Healthcare Excel dataset files
 
@@ -124,7 +124,7 @@ This project demonstrates how Python-based data engineering can seamlessly integ
 
 ├── 📄 README.md # Project overview and documentation
 
-## 📌 6. Installation & Setup (One Block for Python + Power BI) <a name="6-installation--setup"></a>
+##  6. Installation & Setup (One Block for Python + Power BI) <a name="6-installation--setup"></a>
 
 #### 1️⃣ Clone the repository
 git clone [https://github.com/ChandrashekarDevarasetti/Visual-Healthcare-Insights-Python-EDA-Power-BI-Dashboards.git](https://github.com/ChandrashekarDevarasetti/Visual-Healthcare-Insights-Python-EDA-Power-BI-Dashboards)
@@ -141,7 +141,7 @@ jupyter notebook Python/HealthCare_EDA.ipynb
 #### Navigate to the 'PowerBI' folder and open 'HealthCare_Dashboard.pbix' in Power BI Desktop
 
 
-## 📌 7. How to Run (For both Python EDA + Power BI) <a name="7-how-to-run"></a>
+## 7. How to Run (For both Python EDA + Power BI) <a name="7-how-to-run"></a>
 
 ### Run Python EDA Notebook
 
@@ -183,7 +183,7 @@ jupyter notebook Python/HealthCare_EDA.ipynb
 
  &nbsp;&nbsp;&nbsp;&nbsp; If you need to refresh the data, connect to the Excel file located under the /data/ directory.
 
-## 📌 8. Detailed Overview of HealthCare_EDA in Python <a name="8-detailed-overview-of-health_care_eda-in-python"></a>
+##  8. Detailed Overview of HealthCare_EDA in Python <a name="8-detailed-overview-of-health_care_eda-in-python"></a>
 &nbsp;&nbsp;&nbsp;&nbsp; This notebook begins with a descriptive exploration of the patient and hospital datasets using summary statistics and visual analysis. It then examines patterns in patient demographics, admission types, and medical conditions to understand what factors may influence hospital stay duration. Finally, relationships between variables such as department, billing, and severity of illness are analyzed further.
 
 ### 8.1 Description of the Dataset <a name="81-description-of-the-dataset"></a>
@@ -236,7 +236,7 @@ Mapping or encode categorical values for better readability or later modeling.
 
 ![Mapping_Categorical_Values](Images/Mapping_Categorical_Values.png)
 
-### 📌 9. Exploratory Data Analysis (EDA) <a name="9-exploratory-data-analysis-eda"></a>
+### 9. Exploratory Data Analysis (EDA) <a name="9-exploratory-data-analysis-eda"></a>
 Creating charts and graphs to make sense of data patterns, trends, relationships, and anomalies visually.
 
 ![EDA](Images/EDA.png)
@@ -266,7 +266,7 @@ Understand data distribution patterns and proportions.
 
 ![Correlation_Heatmap](Images/Correlation_Heatmap.png)
 
-### 📌 10. Detailed Overview of HealthCare Power BI Dashboard <a name="10-detailed-overview-of-power-bi-dashboard"></a>
+### 10. Detailed Overview of HealthCare Power BI Dashboard <a name="10-detailed-overview-of-power-bi-dashboard"></a>
 &nbsp;&nbsp;&nbsp;&nbsp; This comprehensive Power BI Healthcare Admissions & Billing Dashboard offers end-to-end insights into patient admissions, medical conditions, doctor performance, billing trends, and time-based activity. It includes interactive KPI cards, dynamic charts, matrix visuals, and drill-through pages for detailed patient-level analysis. The dashboard empowers stakeholders to monitor hospital operations, financial performance, and clinical outcomes effectively with slicers, bookmarks, and customized timelines for rich, interactive exploration.
 
 #### 🔍 10.1 Overview Dashboard <a name="101-overview-dashboard"></a>
@@ -369,18 +369,17 @@ Understand how admissions fluctuate over time, identify peak periods, and drill 
 
 ![Patient_Details_Drillthorugh](Images/Patient_Details_Drilltrough.png)
 
-## 👨‍💻 11. Author <a name="11-author"></a>
+##  11. Author <a name="11-author"></a>
 
-**Chandra Shekar Devarasetti**    
-Data Scientist | Data Science Enthusiast  
+**Adil Shani Akhtar**    
+IEM | RVCE 
 
-- 📧 Email: [devarasettychnadrashekar@gmail.com](mailto:devarasettychnadrashekar@gmail.com)
+- 📧 Email: [adilshani.im22@gmail.com](mailto:adilshani.im22@rvce.edu.in)
 - 🌐 LinkedIn: [Chandra_LinkedIn](https://www.linkedin.com/in/chandra-shekar-devarasetti-8799b2222/)
 - 🌐 Portfolio: [Chandra_Portfolio](https://chandrashekardevarasetti.github.io/Chandra_Portfolio/)
 
-## 12. License <a name="12-license"></a>
 
-This project is licensed under the [MIT License](LICENSE).
+
 
 
 
