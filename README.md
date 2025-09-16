@@ -13,7 +13,7 @@
 5. [Project Folder Structure](#5-project-folder-structure)  
 6. [Installation & Setup (One Block for Python + Power BI)](#6-installation--setup)  
 7. [How to Run (For both Python EDA + Power BI)](#7-how-to-run)  
-8. [Detailed Overview of Health_Care_EDA in Python](#8-detailed-overview-of-health_care_eda-in-python)  
+8. [Detailed Overview of Pulse_360_EDA in Python](#8-detailed-overview-of-health_care_eda-in-python)  
      &nbsp;&nbsp;&nbsp;&nbsp; 8.1 [Description of the Dataset](#81-description-of-the-dataset)  
      &nbsp;&nbsp;&nbsp;&nbsp; 8.2 [Data Cleaning & Preparation](#82-data-cleaning--preparation)  
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.2.1 [Merging All Datasets](#821-merging-all-datasets)  
@@ -30,7 +30,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp; 9.3 [Multivariate Analysis](#93-multivariate-analysis)  
     &nbsp;&nbsp;&nbsp;&nbsp; 9.4 [Distribution Analysis](#94-distribution-analysis)  
     &nbsp;&nbsp;&nbsp;&nbsp; 9.5 [Correlation Analysis](#95-correlation-analysis)  
-10. [Detailed Overview of HealthCare Power BI Dashboard](#10-detailed-overview-of-power-bi-dashboard)  
+10. [Detailed Overview of Pulse_360 Dashboard](#10-detailed-overview-of-power-bi-dashboard)  
     &nbsp;&nbsp;&nbsp;&nbsp; 10.1 [Overview Dashboard](#101-overview-dashboard)  
     &nbsp;&nbsp;&nbsp;&nbsp; 10.2 [Medical Condition & Outcome Analysis](#102-medical-condition--outcome-analysis)  
     &nbsp;&nbsp;&nbsp;&nbsp; 10.3 [Billing & Insurance Analysis](#103-billing--insurance-analysis)  
@@ -127,9 +127,9 @@ This project demonstrates how Python-based data engineering can seamlessly integ
 ##  6. Installation & Setup (One Block for Python + Power BI) <a name="6-installation--setup"></a>
 
 #### 1️⃣ Clone the repository
-git clone [https://github.com/ChandrashekarDevarasetti/Visual-Healthcare-Insights-Python-EDA-Power-BI-Dashboards.git](https://github.com/ChandrashekarDevarasetti/Visual-Healthcare-Insights-Python-EDA-Power-BI-Dashboards)
+  git clone [https://github.com/Aadil-SA22/Pulse-360-.git]
 
-cd Visual-Healthcare-Insights-Python-EDA-Power-BI-Dashboards
+cd Pulse-360-
 
 #### 2️⃣ Install required Python packages
 pip install -r Python/requirements.txt
@@ -159,16 +159,16 @@ jupyter notebook Python/HealthCare_EDA.ipynb
  &nbsp;&nbsp;&nbsp;&nbsp; Once the notebook is open in your browser, execute all the cells to run the EDA analysis.
 
 
-### 📊 Open Power BI Dashboard
- #### 1️⃣ Install Power BI Desktop
+###  Open Power BI Dashboard
+ #### 1️ Install Power BI Desktop
  &nbsp;&nbsp;&nbsp;&nbsp; If you haven't already, install Power BI Desktop. You can download it from here.
 
- #### 2️⃣ Open the Power BI file
+ #### 2️ Open the Power BI file
  &nbsp;&nbsp;&nbsp;&nbsp; To view the dashboards, open the Power BI file located in the PowerBI directory:
 
  &nbsp;&nbsp;&nbsp;&nbsp; PowerBI/HealthCare_Dashboard.pbix
 
- #### 3️⃣ Explore all the interactive dashboards
+ #### 3️ Explore all the interactive dashboards
  &nbsp;&nbsp;&nbsp;&nbsp; Once the Power BI file is open, you can explore the following interactive dashboards:
 
   - 📊 Overview Dashboard
@@ -183,7 +183,7 @@ jupyter notebook Python/HealthCare_EDA.ipynb
 
  &nbsp;&nbsp;&nbsp;&nbsp; If you need to refresh the data, connect to the Excel file located under the /data/ directory.
 
-##  8. Detailed Overview of HealthCare_EDA in Python <a name="8-detailed-overview-of-health_care_eda-in-python"></a>
+##  8. Detailed Overview of Pulse_360_EDA in Python <a name="8-detailed-overview-of-health_care_eda-in-python"></a>
 &nbsp;&nbsp;&nbsp;&nbsp; This notebook begins with a descriptive exploration of the patient and hospital datasets using summary statistics and visual analysis. It then examines patterns in patient demographics, admission types, and medical conditions to understand what factors may influence hospital stay duration. Finally, relationships between variables such as department, billing, and severity of illness are analyzed further.
 
 ### 8.1 Description of the Dataset <a name="81-description-of-the-dataset"></a>
@@ -266,7 +266,7 @@ Understand data distribution patterns and proportions.
 
 ![Correlation_Heatmap](Images/Correlation_Heatmap.png)
 
-### 10. Detailed Overview of HealthCare Power BI Dashboard <a name="10-detailed-overview-of-power-bi-dashboard"></a>
+### 10. Detailed Overview of Pulse 360 Power BI Dashboard <a name="10-detailed-overview-of-power-bi-dashboard"></a>
 &nbsp;&nbsp;&nbsp;&nbsp; This comprehensive Power BI Healthcare Admissions & Billing Dashboard offers end-to-end insights into patient admissions, medical conditions, doctor performance, billing trends, and time-based activity. It includes interactive KPI cards, dynamic charts, matrix visuals, and drill-through pages for detailed patient-level analysis. The dashboard empowers stakeholders to monitor hospital operations, financial performance, and clinical outcomes effectively with slicers, bookmarks, and customized timelines for rich, interactive exploration.
 
 #### 🔍 10.1 Overview Dashboard <a name="101-overview-dashboard"></a>
@@ -375,8 +375,8 @@ Understand how admissions fluctuate over time, identify peak periods, and drill 
 IEM | RVCE 
 
 - 📧 Email: [adilshani.im22@gmail.com](mailto:adilshani.im22@rvce.edu.in)
-- 🌐 LinkedIn: [Chandra_LinkedIn](https://www.linkedin.com/in/chandra-shekar-devarasetti-8799b2222/)
-- 🌐 Portfolio: [Chandra_Portfolio](https://chandrashekardevarasetti.github.io/Chandra_Portfolio/)
+- 🌐 LinkedIn: [AdilShani_LinkedIn](in/adil-shani-akhtar-034203287)
+
 
 
 
